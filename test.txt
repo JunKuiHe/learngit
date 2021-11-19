@@ -4,3 +4,6 @@ feature test git2
 
 
 add another feature git2
+
+
+fix git2 feature
